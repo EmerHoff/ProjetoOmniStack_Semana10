@@ -49,3 +49,23 @@ li.dev-item a {
 li.dev-item a:hover {
     color: #5a2ea6;
 }
+
+/*Button Delete*/
+.body-info {
+    float:left;
+    width: 88%;
+}
+
+.body-buttons {
+    float:right;
+    padding-right: 20px;
+    margin-top: 10%;
+    background: #c7e0d1;
+    width: 20px;
+    height: 20px;
+    border-radius: 0%;
+}
+
+button.delete {
+    background: #8e4dff;
+}
