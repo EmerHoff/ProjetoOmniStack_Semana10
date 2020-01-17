@@ -21,3 +21,8 @@ yarn install
 yarn start
 ```
 Assim que o processo terminar, automaticamente será aberta no seu navegador a página `localhost:19002`. Conecte seu emulador, ou teste o aplicativo por `LAN`: baixe o aplicativo *Expo* da Play Store ou App Store e em seguida escaneie o código QR.
+
+Lembrando que deve-se alterar os IPs da conexão nos arquivos:
+`./mobile/src/services/socket.js` e 
+`./mobile/src/services/api.js`
+Utilizar o IP local.
