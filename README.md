@@ -24,5 +24,5 @@ Assim que o processo terminar, automaticamente será aberta no seu navegador a p
 
 Lembrando que deve-se alterar os IPs da conexão nos arquivos:
 `./mobile/src/services/socket.js` e 
-`./mobile/src/services/api.js`
-Utilizar o IP local.
+`./mobile/src/services/api.js`. 
+Utilizar o **IP local**.
