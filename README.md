@@ -1,4 +1,21 @@
+## Projeto
+Esse projeto foi intitulado como DevRadar, e visa conectar desenvolvedores próximos a você que trabalham com as mesmas tecnologias. Ele foi desenvolvido durante o curso da Rocketseat (Semana 10 OmniStack).
+
+Durante o desenvolvimento do projeto foram utilizadas as seguintes tecnologias:
+
+- [Node.js](https://nodejs.org/en/)
+- [React](https://reactjs.org)
+- [React Native](https://facebook.github.io/react-native/)
+- [Expo](https://expo.io/)
+
+### Layout
+
+É possível baixar o layout do projeto no formato `.sketch` através [desse link](.github/DevRadar.sketch).
+
+Para abrir o arquivo é necessáario utilizar a ferramenta [Figma](https://figma.com).
+
 ## Instalação
+
 Configure o MongoDB e atualize a string de conexão com seu `User:Senha` no arquivo `index.js`.  
 Para instalar as dependências e executar o **Servidor** (modo desenvolvimento), clone o projeto em seu computador e em seguida execute:
 ```bash
